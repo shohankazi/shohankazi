@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shohankazi
 - 👀 I’m interested in Web Development, Software development, App development, Machine Learning, Cyber security
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 Connect me through mail: shohankazi012@gmail.com
 
 <!---
