@@ -39,5 +39,8 @@ I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
 <img src="https://github-readme-stats.vercel.app/api?username=shohankazi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+### 👨‍💻 Streak
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&" alt="iamansingh0" /></p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohelIslamImran&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
