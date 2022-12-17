@@ -39,8 +39,16 @@ I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
 <img src="https://github-readme-stats.vercel.app/api?username=shohankazi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 ### 👨‍💻 Streak
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&" alt="iamansingh0" /></p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohelIslamImran&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<h3 align="left">📱 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shohan-kazi-9938bb203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="USERNAME" height="30" width="40" /></a>
+<a href="https://instagram.com/shohan_kazi_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="USERNAME" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kazi_shohan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="USERNAME" height="30" width="40" /></a>
+</p>
