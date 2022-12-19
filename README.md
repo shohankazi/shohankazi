@@ -44,7 +44,7 @@ I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shohankazi&" alt="iamansingh0" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohelIslamImran&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohankazi&langs_count=8)](https://github.com/shohankazi/github-readme-stats)
 
 <h3 align="left">📱 Connect with me:</h3>
 <p align="left">
