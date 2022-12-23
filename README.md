@@ -42,7 +42,7 @@ I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I
 
 ### 👨‍💻 Streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shohankazi&" alt="iamansingh0" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shohankazi&border_radius=5.1)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohankazi&langs_count=8)](https://github.com/shohankazi/github-readme-stats)
 
