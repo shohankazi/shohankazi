@@ -19,7 +19,7 @@ I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I
 
 - 🌱 I’m currently learning **Full-stack web development**
 
-- 💬 Ask me about **react, typescript, node JS**
+- 💬 Ask me about **web development, react, typescript, node JS and more**
 
 - 📫 How to reach me **shohankazi012@gmail.com**
 
