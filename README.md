@@ -40,5 +40,4 @@ I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shohankazi&show_icons=true&locale=en" alt="shohankazi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shohankazi&theme=dark" alt="shohankazi" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shohankazi&theme=dark)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shohankazi&theme=dark" /></p>
