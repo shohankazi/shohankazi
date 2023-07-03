@@ -18,7 +18,7 @@ I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I
 
 - 💬 Ask me about **web development, react, typescript, node JS and more**
 
-- 📫 How to reach me **shohankazi012@gmail.com**
+- 📫 reach me at email **shohankazi012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
