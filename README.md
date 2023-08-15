@@ -7,7 +7,7 @@
 
 ### 📖 About me
 
-I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I also have experience in developing static websites using HTML5, CSS3 and JavaScript (ES6). I am a quick learner. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology. My goal is to become A World-Class Professional Web Developer. 
+I am a WEB Developer(Focused on the Backend). I am working with React, Node.js, and MongoDB. I also have experience in developing static websites using HTML5, CSS3, and JavaScript (ES6). I am a quick learner. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology. My goal is to become A World-Class Professional Web Developer. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohankazi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shohankazi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohankazi" alt="shohankazi" /></a> </p>
@@ -22,15 +22,12 @@ I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/shohankazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shohankazi" height="30" width="40" /></a>
+
 <a href="https://twitter.com/shohankazi012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shohankazi012" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shohan-kazi-9938bb203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shohan-kazi-9938bb203/" height="30" width="40" /></a>
 <a href="https://fb.com/shohan.kazi01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shohan.kazi01/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@shohankazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@shohankazi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shohan kazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shohan kazi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shohankazi012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shohankazi012" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shohankazi012/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shohankazi012/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shohankazi012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@shohankazi012" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
