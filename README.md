@@ -2,6 +2,7 @@
 <h1 align=center> Welcome to My GitHub Profile!</h1>
 
 👋 Hi, I'm **Shohan Kazi**, and I'm on a journey to learn computer science through the Open Source Society University (OSSU) curriculum. This is my GitHub profile, where I document my learning process, share my projects, and connect with the tech community.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohankazi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shohankazi" /> </p>
 
 ## ✅About Me
 
@@ -32,13 +33,6 @@ Let's connect and learn together! You can find me on:
 - 🌐 [Personal Website/Blog](https://www.yourwebsite.com)
 
 I'm always open to collaborations, discussions, and learning opportunities, so don't hesitate to reach out.
-
-## Thank You
-
-Thank you for visiting my GitHub profile and joining me on my journey of learning and growth in the field of computer science. Feel free to explore my repositories, share your feedback, and connect with me. Together, we can achieve great things in the world of technology!
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohankazi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shohankazi" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohankazi" alt="shohankazi" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -77,6 +71,7 @@ Thank you for visiting my GitHub profile and joining me on my journey of learnin
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohankazi&show_icons=true&locale=en&layout=compact" alt="shohankazi" /></p>
@@ -84,5 +79,8 @@ Thank you for visiting my GitHub profile and joining me on my journey of learnin
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shohankazi&show_icons=true&locale=en" alt="shohankazi" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shohankazi&theme=dark)](https://git.io/streak-stats)
+## Thank You
+
+Thank you for visiting my GitHub profile and joining me on my journey of learning and growth in the field of computer science. Feel free to explore my repositories, share your feedback, and connect with me. Together, we can achieve great things in the world of technology!
 
 
