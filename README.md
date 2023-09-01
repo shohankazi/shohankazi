@@ -3,17 +3,17 @@
 
 👋 Hi, I'm **Shohan Kazi**, and I'm on a journey to learn computer science through the Open Source Society University (OSSU) curriculum. This is my GitHub profile, where I document my learning process, share my projects, and connect with the tech community.
 
-## About Me
+## ✅About Me
 
 - 🌱 I'm currently pursuing a **Computer Science** education with a focus on OSSU's curriculum.
 - 💻 I'm passionate about **software development**, **algorithms**, and **problem-solving**.
 - 📚 I enjoy learning and constantly exploring new technologies and concepts.
 
-## OSSU Computer Science Journey
+## ✅OSSU Computer Science Journey
 
 I'm actively working through the OSSU Computer Science curriculum, which covers a wide range of topics, from programming fundamentals to advanced computer science concepts. You can find my course notes, projects, and learning resources in my [OSSU CS Course Notes Repository](https://github.com/shohankazi/OSSU-code-practices).
 
-## Projects
+## ✅Projects
 
 Here are some of the projects I've been working on:
 
@@ -23,10 +23,10 @@ Here are some of the projects I've been working on:
 
 Feel free to explore my repositories to see more of my work!
 
-## Connect with Me
+## 🤝Connect with Me
 
 Let's connect and learn together! You can find me on:
-
+- 📧 **Email:** shohankazi012@gmail.com
 - 🐦 [Twitter](https://twitter.com/ShohanKazi012)
 - 💼 [LinkedIn](https://www.linkedin.com/in/shohan-kazi-9938bb203/)
 - 🌐 [Personal Website/Blog](https://www.yourwebsite.com)
