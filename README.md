@@ -1,9 +1,44 @@
-<a href="#"><img width="100%" src="https://sohelislamimran.netlify.app/static/media/Developer.e0ed7fbf.svg" height="400px"/></a>
-<p align="center">
-<!-- <img src="https://komarev.com/ghpvc/?username=shohankazi&style=for-the-badge" alt="Shohan Kazi" /> -->
-</p>
-<h1 align="center">Hi 👋, I'm Shohan Kazi</h1>
-<h3 align="center">A passionate web application developer from Bangladesh</h3>
+
+# Welcome to My GitHub Profile!
+
+👋 Hi, I'm **Shohan Kazi**, and I'm on a journey to learn computer science through the Open Source Society University (OSSU) curriculum. This is my GitHub profile, where I document my learning process, share my projects, and connect with the tech community.
+
+## About Me
+
+- 🌱 I'm currently pursuing a **Computer Science** education with a focus on OSSU's curriculum.
+- 💻 I'm passionate about **software development**, **algorithms**, and **problem-solving**.
+- 📚 I enjoy learning and constantly exploring new technologies and concepts.
+
+## OSSU Computer Science Journey
+
+I'm actively working through the OSSU Computer Science curriculum, which covers a wide range of topics, from programming fundamentals to advanced computer science concepts. You can find my course notes, projects, and learning resources in my [OSSU CS Course Notes Repository](https://github.com/shohankazi/OSSU-code-practices).
+
+## Projects
+
+Here are some of the projects I've been working on:
+
+- 🚀 [Project 1](link-to-project1): Brief description of project 1.
+- 🌐 [Project 2](link-to-project2): Brief description of project 2.
+- 📊 [Project 3](link-to-project3): Brief description of project 3.
+
+Feel free to explore my repositories to see more of my work!
+
+## Connect with Me
+
+Let's connect and learn together! You can find me on:
+
+- 🐦 [Twitter](https://twitter.com/ShohanKazi012)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shohan-kazi-9938bb203/)
+- 🌐 [Personal Website/Blog](https://www.yourwebsite.com)
+
+I'm always open to collaborations, discussions, and learning opportunities, so don't hesitate to reach out.
+
+## Thank You
+
+Thank you for visiting my GitHub profile and joining me on my journey of learning and growth in the field of computer science. Feel free to explore my repositories, share your feedback, and connect with me. Together, we can achieve great things in the world of technology!
+
+
+
 
 ### 📖 About me
 
@@ -38,3 +73,5 @@ I am a WEB Developer(Focused on the Backend). I am working with React, Node.js, 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shohankazi&show_icons=true&locale=en" alt="shohankazi" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shohankazi&theme=dark)](https://git.io/streak-stats)
+
+
