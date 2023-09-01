@@ -1,5 +1,5 @@
 
-<h2 align=center> Welcome to My GitHub Profile!</h2>
+<h1 align=center> Welcome to My GitHub Profile!</h1>
 
 👋 Hi, I'm **Shohan Kazi**, and I'm on a journey to learn computer science through the Open Source Society University (OSSU) curriculum. This is my GitHub profile, where I document my learning process, share my projects, and connect with the tech community.
 
