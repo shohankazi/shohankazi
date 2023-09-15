@@ -74,9 +74,9 @@ I'm always open to collaborations, discussions, and learning opportunities, so d
   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohankazi&show_icons=true&locale=en&layout=compact" alt="shohankazi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shohankazi&show_icons=true&locale=en" alt="shohankazi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shohankazi&show_icons=true&locale=en&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="shohankazi" /></p>
+<!-- <p>(https://github-readme-stats.vercel.app/api/wakatime?username=shohankazi)](https://github.com/anuraghazra/github-readme-stats)</p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shohankazi&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5" alt="shohankazi" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shohankazi&theme=dark)](https://git.io/streak-stats)
 ## Thank You
