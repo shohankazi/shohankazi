@@ -33,7 +33,7 @@ Let's connect and learn together! You can find me on:
 - 🌐 [Personal Website/Blog](https://www.yourwebsite.com)
 
 I'm always open to collaborations, discussions, and learning opportunities, so don't hesitate to reach out.
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohankazi" alt="shohankazi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohankazi&margin-w=15" alt="shohankazi" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
