@@ -14,7 +14,7 @@
 
 I'm actively working through the OSSU Computer Science curriculum, which covers a wide range of topics, from programming fundamentals to advanced computer science concepts. You can find my course notes, projects, and learning resources in my [OSSU CS Course Notes Repository](https://github.com/shohankazi/OSSU-code-practices).
 
-## ✅Projects
+<!-- ## ✅Projects
 
 Here are some of the projects I've been working on:
 
@@ -23,14 +23,14 @@ Here are some of the projects I've been working on:
 - 📊 [Project 3](link-to-project3): Brief description of project 3.
 
 Feel free to explore my repositories to see more of my work!
-
+-->
 ## 🤝Connect with Me
 
 Let's connect and learn together! You can find me on:
 - 📧 **Email:** shohankazi012@gmail.com
 - 🐦 [Twitter](https://twitter.com/ShohanKazi012)
 - 💼 [LinkedIn](https://www.linkedin.com/in/shohan-kazi-9938bb203/)
-- 🌐 [Personal Website/Blog](https://www.yourwebsite.com)
+<!-- - 🌐 [Personal Website/Blog](https://www.yourwebsite.com) -->
 
 I'm always open to collaborations, discussions, and learning opportunities, so don't hesitate to reach out.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohankazi&margin-w=15" alt="shohankazi" /></a> </p>
