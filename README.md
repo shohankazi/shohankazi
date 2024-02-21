@@ -7,7 +7,7 @@
 ## ✅About Me
 
 <!-- - 🌱 I'm currently pursuing a **Computer Science** education with a focus on OSSU's curriculum. -->
-- 💻 I'm passionate about **software development**, **algorithms**, and **problem-solving**.
+- 💻 I'm passionate about **software development**, **Data Structures**, **algorithms**, and **problem-solving**.
 - 📚 I enjoy learning and constantly exploring new technologies and concepts.
 
 <!-- ## ✅OSSU Computer Science Journey
