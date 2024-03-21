@@ -29,7 +29,7 @@ Feel free to explore my repositories to see more of my work!
 Let's connect and learn together! You can find me on:
 - 📧 **Email:** shohankazi012@gmail.com
 - 🐦 **Twitter:** (https://twitter.com/ShohanKazi012)
-- 💼 **Linkedin:** (https://www.linkedin.com/in/shohan-kazi-9938bb203/)
+- 💼 **Linkedin:** (https://www.linkedin.com/in/shohan-kazi)
 <!-- - 🌐 [Personal Website/Blog](https://www.yourwebsite.com) -->
 
 I'm always open to collaborations, discussions, and learning opportunities, so don't hesitate to reach out.
